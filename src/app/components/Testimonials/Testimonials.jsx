@@ -16,7 +16,7 @@ const Testimonials = () => {
           <p className="text-5xl font-bold text-center font-mono p-5 text-black mb-5  mt-10">
        What Our Client Says
       </p>
-      <h1 className="font-5xl font-poppins font-extrabold border-b-8  border-dimPurple text-black mb-10"></h1>
+      <h1 className="font-5xl  font-extrabold border-b-8  border-dimPurple text-black mb-10"></h1>
 
    
         <Swiper navigation={true} modules={[Navigation]} className="mySwiper">

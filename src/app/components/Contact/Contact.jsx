@@ -3,15 +3,15 @@ import React from 'react';
 import img from '@/assets/michal-biernat-h0xEUQXzU38-unsplash.jpg'
 const Contact = () => {
     return (
-        <div className='bg-purple-200 mt-10'>
+        <div className='bg-purple-200 mt-10'id="contact">
    
     <p className="text-5xl font-bold text-center p-5 font-mono text-black mb-5  mt-10">
         Contact Us
       </p>
-      <h1 className="font-5xl font-poppins font-extrabold border-b-8  border-dimPurple text-black mb-10"></h1>
+      <h1 className="font-5xl  font-extrabold border-b-8  border-dimPurple text-black mb-10"></h1>
 
    
-   <div id="contact"
+   <div 
       className={`xl:mt-12 flex md:flex-row flex-col-reverse gap-5 justify-evenly overflow-hidden`}
     >
      
